@@ -1,0 +1,60 @@
+.vector-smart-object-11 {
+  position: absolute;
+  right: 57px;
+  bottom: 367px;
+  width: 145px;
+  height: 165px;
+  object-fit: cover;
+}
+.frame-685variant3-inner {
+  position: absolute;
+  right: 1136px;
+  bottom: 851px;
+  width: 164px;
+  height: 148px;
+  overflow: hidden;
+}
+.frame-685variant3-child1 {
+  position: absolute;
+  right: 1181px;
+  bottom: 849px;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(89.8deg, #ffa767, #fff);
+  width: 75px;
+  height: 3px;
+}
+.group-3-11 {
+  position: absolute;
+  right: 210px;
+  bottom: 264px;
+  width: 59px;
+  height: 60px;
+  object-fit: contain;
+}
+.asset-410x-11 {
+  position: absolute;
+  top: 323px;
+  left: 1121px;
+  width: 111px;
+  height: 109px;
+  object-fit: cover;
+}
+.asset-94x-11 {
+  position: absolute;
+  right: 799px;
+  bottom: 323.5px;
+  width: 128px;
+  height: 130.5px;
+  object-fit: contain;
+}
+.frame-685variant31 {
+  position: absolute;
+  top: 94px;
+  left: 494px;
+  width: 1920px;
+  height: 1008px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-archivo);
+}

@@ -1,0 +1,77 @@
+.vector-icon6 {
+  position: absolute;
+  top: 1px;
+  right: 0;
+  width: 705px;
+  height: 291px;
+}
+.canopus-gtx-wallet {
+  position: relative;
+  font-size: var(--font-size-21xl);
+  font-weight: 800;
+  font-family: var(--font-roboto-slab);
+}
+.canopus-gtx-wallet1,
+.securely-store-your {
+  position: relative;
+  line-height: 136%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.securely-store-your {
+  text-transform: capitalize;
+  width: 294px;
+  height: 31px;
+}
+.canopus-gtx-wallet1 {
+  width: 616px;
+  height: 44px;
+}
+.securely-store-your-digital-as-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.explore-more {
+  position: relative;
+  line-height: 136%;
+  text-transform: capitalize;
+}
+.frame-icon1 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.explore-more-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+  text-align: center;
+  color: var(--color-darkorange);
+}
+.canopus-gtx-wallet-parent {
+  position: absolute;
+  top: 45.2px;
+  left: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-12xl);
+}
+.vector-parent1 {
+  position: absolute;
+  top: 1225px;
+  left: 224px;
+  width: 705px;
+  height: 292.1px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--ffffff);
+  font-family: var(--font-archivo);
+}

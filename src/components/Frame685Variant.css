@@ -1,0 +1,188 @@
+.vector-icon16 {
+  position: relative;
+  width: 1708px;
+  height: 803.5px;
+  z-index: 0;
+}
+.frame-685variant3-child {
+  position: relative;
+  width: 164px;
+  height: 148px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+  margin-left: -71px;
+}
+.vector-icon17 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.build-on-upro1 {
+  position: absolute;
+  top: 24px;
+  left: calc(50% - 58px);
+  font-weight: 600;
+}
+.vector-parent6 {
+  position: relative;
+  width: 248px;
+  height: 69px;
+  z-index: 2;
+  margin-left: -71px;
+}
+.arwork-1-icon1,
+.vector-smart-object-1 {
+  position: relative;
+  width: 742px;
+  height: 715px;
+  object-fit: cover;
+  z-index: 3;
+  margin-left: -71px;
+}
+.vector-smart-object-1 {
+  width: 145px;
+  height: 165px;
+  z-index: 4;
+}
+.contact-us1 {
+  position: absolute;
+  top: 24px;
+  left: calc(50% - 51px);
+  font-weight: 600;
+}
+.frame-child11,
+.vector-parent7 {
+  position: relative;
+  width: 248px;
+  height: 69px;
+}
+.frame-child11 {
+  object-fit: contain;
+}
+.frame-parent3 {
+  margin: 0 !important;
+  position: absolute;
+  right: 1346px;
+  bottom: 1174.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  z-index: 5;
+}
+.frame-685variant3-item {
+  position: absolute;
+  margin: 0 !important;
+  right: 1353px;
+  bottom: 1798.5px;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(89.8deg, #ffa767, #fff);
+  width: 75px;
+  height: 3px;
+  z-index: 6;
+}
+.home1 {
+  position: relative;
+}
+.home-group,
+.pinnacle-of-crypto1 {
+  position: absolute;
+  margin: 0 !important;
+}
+.home-group {
+  right: 715px;
+  bottom: 1819.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-36xl);
+  z-index: 7;
+  color: var(--ffffff);
+}
+.pinnacle-of-crypto1 {
+  right: 1234px;
+  bottom: 1488.5px;
+  font-size: var(--font-size-49xl);
+  font-weight: 500;
+  font-family: var(--font-roboto-slab);
+  background: linear-gradient(94.47deg, #fff, #ffdfc8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 628px;
+  flex-shrink: 0;
+  z-index: 8;
+}
+.embark-on-a1 {
+  margin: 0;
+}
+.embark-on-a-container1 {
+  position: absolute;
+  margin: 0 !important;
+  right: 1319px;
+  bottom: 1288.5px;
+  line-height: 32px;
+  color: var(--ffffff);
+  display: inline-block;
+  width: 521px;
+  height: 193px;
+  flex-shrink: 0;
+  z-index: 9;
+}
+.group-3-1 {
+  right: 323px;
+  bottom: 1213.5px;
+  width: 59px;
+  height: 60px;
+  object-fit: contain;
+  z-index: 10;
+}
+.asset-410x-1,
+.asset-94x-1,
+.group-3-1 {
+  position: absolute;
+  margin: 0 !important;
+}
+.asset-410x-1 {
+  top: 323px;
+  left: 1121px;
+  width: 111px;
+  height: 109px;
+  object-fit: cover;
+  z-index: 11;
+}
+.asset-94x-1 {
+  right: 971px;
+  bottom: 1222.2px;
+  width: 128px;
+  height: 130.5px;
+  object-fit: contain;
+  z-index: 12;
+}
+.frame-685variant3 {
+  position: absolute;
+  top: 12387px;
+  left: -1204px;
+  width: 2092px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-smi) var(--padding-38xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-archivo);
+}

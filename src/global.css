@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Scheherazade:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-archivo: Archivo;
+  --font-roboto-slab: "Roboto Slab";
+  --font-scheherazade: Scheherazade;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-49xl: 68px;
+  --font-size-45xl: 64px;
+  --font-size-21xl: 40px;
+  --font-size-29xl: 48px;
+  --font-size-base: 16px;
+  --font-size-9xl: 28px;
+  --font-size-41xl: 60px;
+  --font-size-8xl: 27px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --b1b2a: #1b1b2a;
+  --ffffff: #fff;
+  --color-black: #000;
+  --color-darkorange: #fe7501;
+  --color-chocolate: #bc4d0e;
+  --color-sandybrown: #fea15d;
+
+  /* Gaps */
+  --gap-36xl: 55px;
+  --gap-xl: 20px;
+  --gap-14xl-8: 33.8px;
+  --gap-5xs: 8px;
+  --gap-base: 16px;
+  --gap-9xl: 28px;
+  --gap-12xl: 31px;
+  --gap-4xs: 9px;
+  --gap-27xl: 46px;
+
+  /* Paddings */
+  --padding-smi: 13px;
+  --padding-38xl: 57px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-9xl: 28px;
+  --br-381xl: 400px;
+}

@@ -1,0 +1,51 @@
+.vector-icon4 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 328.6px;
+  height: 432.8px;
+  object-fit: contain;
+}
+.driving-global-utility {
+  margin: 0;
+}
+.driving-global-utility-container {
+  position: absolute;
+  right: 22.6px;
+  bottom: 70.8px;
+  line-height: 27.37px;
+  font-weight: 300;
+  display: inline-block;
+  width: 279px;
+}
+.mission {
+  position: absolute;
+  right: 186px;
+  bottom: 215.8px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-roboto-slab);
+  background: linear-gradient(94.47deg, #fff, #ffdfc8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.vector-icon5 {
+  position: absolute;
+  height: 14.79%;
+  width: 19.48%;
+  top: 6.93%;
+  right: 8.79%;
+  bottom: 78.28%;
+  left: 71.73%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-div {
+  position: relative;
+  width: 328.6px;
+  height: 432.8px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--ffffff);
+  font-family: var(--font-archivo);
+}
